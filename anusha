@@ -1,2 +1,6 @@
-this is developer
-app2
+<<<<<<< HEAD this is developer
+working:app2
+=======
+this is a file
+working:app1
+>>>>>>> 87e2494e4828e08ff6d539f51c42ce3d364a8e03
